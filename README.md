@@ -20,7 +20,7 @@ The dataset contains daily weather information for cities around the world, incl
 - Temperature trend visualization
 - Precipitation trend visualization
 - Correlation analysis
-- Time-series analysis using `lastupdated`
+- Time-series analysis using `last_updated`
 - Multiple forecasting models
 - Ensemble forecasting model
 - Model evaluation using MAE, RMSE, and R2 Score
