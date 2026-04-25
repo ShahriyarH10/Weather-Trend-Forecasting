@@ -53,6 +53,3 @@ The dataset contains daily weather information for cities around the world, incl
 - `outputs/figures/`
 - `outputs/model_results.csv`
 - `requirements.txt`
-
-## Demo Video
-Demo video link: ADD_YOUR_VIDEO_LINK_HERE
